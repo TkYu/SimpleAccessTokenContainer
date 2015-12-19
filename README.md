@@ -1,0 +1,2 @@
+# SimpleAccessTokenContainer
+临时解决微信多个应用的AccessToken互容性
